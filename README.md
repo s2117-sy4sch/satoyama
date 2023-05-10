@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satoyama
-- 👀 I’m interested in ...hmm nothing tbh ...recently im into imas and drawing 
+- 👀 I’m interested in nothing tbh
 - 🌱 I’m currently learning ...C/C#/C++/Java/Js/python
 - 💞️ I’m looking to collaborate on ... me
 - 📫 How to reach me ...　secret
